@@ -271,6 +271,7 @@ C:\Users\ShimaRin\source\repos\BibliotecaApi\BibliotecaApi\obj\Debug\net8.0\Bibl
 C:\Users\ShimaRin\source\repos\BibliotecaApi\BibliotecaApi\obj\Debug\net8.0\BibliotecaApi.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\ShimaRin\source\repos\BibliotecaApi\BibliotecaApi\obj\Debug\net8.0\BibliotecaApi.RazorAssemblyInfo.cache
 C:\Users\ShimaRin\source\repos\BibliotecaApi\BibliotecaApi\obj\Debug\net8.0\BibliotecaApi.RazorAssemblyInfo.cs
+C:\Users\ShimaRin\source\repos\BibliotecaApi\BibliotecaApi\obj\Debug\net8.0\BibliotecaApi.sourcelink.json
 C:\Users\ShimaRin\source\repos\BibliotecaApi\BibliotecaApi\obj\Debug\net8.0\scopedcss\bundle\BibliotecaApi.styles.css
 C:\Users\ShimaRin\source\repos\BibliotecaApi\BibliotecaApi\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\ShimaRin\source\repos\BibliotecaApi\BibliotecaApi\obj\Debug\net8.0\staticwebassets.development.json

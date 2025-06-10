@@ -424,6 +424,10 @@
         "additionalProperties": false
       },
       "Prestamo": {
+        "required": [
+          "libroId",
+          "usuarioId"
+        ],
         "type": "object",
         "properties": {
           "prestamoId": {
